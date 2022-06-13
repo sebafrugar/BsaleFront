@@ -1,7 +1,13 @@
 const request = fetch("https://intense-oasis-55031.herokuapp.com/api/prueba")
 let productostotal= [];
 
-fetch('https://intense-oasis-55031.herokuapp.com/api/prueba')
+document.addEventListener('DOMContentLoaded', () => {
+    productos()
+    buscarPorCategorias()
+})
+
+const productos = async() => {
+    await fetch('https://intense-oasis-55031.herokuapp.com/api/prueba')
     .then((response) =>{
         return response.json();
     }).then((response) =>{
@@ -20,6 +26,8 @@ fetch('https://intense-oasis-55031.herokuapp.com/api/prueba')
         `).join('')
     })
     .catch(error => console.log(error))
+}
+
 
 const buscadorProductos = async () => {
     try {
