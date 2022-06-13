@@ -1,4 +1,4 @@
-# BsalePrueba
+
 # BsaleFront
 
 <p> Proyecto creado para Bsale el cual consta de un listado de productos 
