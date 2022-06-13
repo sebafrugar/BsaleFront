@@ -4,6 +4,10 @@
 <p> Proyecto creado para Bsale el cual consta de un listado de productos 
   proporcionado por la API facilitada por Bsale </p>
 
+## Link Proyecto
+
+https://sebafrugar.github.io/BsaleFront/index.html
+
 
 ## Contenido 
 
