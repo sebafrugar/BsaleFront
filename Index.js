@@ -1,5 +1,4 @@
 const request = fetch("https://intense-oasis-55031.herokuapp.com/api/prueba")
-let productostotal= [];
 
 document.addEventListener('DOMContentLoaded', () => {
     productos()
