@@ -11,8 +11,8 @@ https://sebafrugar.github.io/BsaleFront/index.html
 
 ## Contenido 
 
-<p> Proyecto presenta una carpeta server la cual lleva el back-end de la aplicacion en la cual se trabajo con
-  MySql , express , cors y nodemon y una carpeta client en el cual se trabajo con HTML , CSS y Vanilla JS  </p>
+<p> Proyecto realizado en dos partes Back end en repositorio https://github.com/sebafrugar/BackBsale.git en el cual se trabajo con Mysql,
+Express, NodeJs, cors y Front end que se encuentra en este repositorio y se trabajo con HTML , CSS , Vanilla JS y bootstrap</p>
   
 ## Clonacion de proyecto
 
