@@ -27,7 +27,6 @@ const productos = async() => {
     .catch(error => console.log(error))
 }
 
-
 const buscadorProductos = async () => {
     try {
         const texto = document.getElementById('buscar').value
